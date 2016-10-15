@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scripture Reference</string>
+    <string name="edit_message1">Enter a book</string>
+    <string name="edit_message2">Enter a chapter</string>
+    <string name="edit_message3">Enter a verse</string>
+    <string name="button_send">Share</string>
+</resources>
